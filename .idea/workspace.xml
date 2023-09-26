@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0af178fe-7dcb-4f8b-88de-877a3196df24" name="Changes" comment="lesson2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/lesson2/TypesData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson2/TypesData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "a-harbuz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b408652b-7d32-4bb1-b544-c485cf655182" />
+        <option name="url" value="https://github.com/a-harbuz/HomeTask1.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -92,7 +106,47 @@
       <option name="project" value="LOCAL" />
       <updated>1695720998004</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson2">
+      <option name="closed" value="true" />
+      <created>1695721433425</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695721433425</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson2">
+      <option name="closed" value="true" />
+      <created>1695721472507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695721472507</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson2">
+      <option name="closed" value="true" />
+      <created>1695721671561</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695721671561</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson2">
+      <option name="closed" value="true" />
+      <created>1695721705490</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695721705490</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lesson2">
+      <option name="closed" value="true" />
+      <created>1695721771523</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695721771523</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

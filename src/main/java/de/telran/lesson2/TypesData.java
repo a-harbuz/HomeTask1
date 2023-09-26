@@ -15,4 +15,6 @@ public class TypesData {
         System.out.println("myFloat = "+myFloat);
         //about
     }
+
+
 }
