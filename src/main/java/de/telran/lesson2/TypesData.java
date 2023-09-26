@@ -13,6 +13,6 @@ public class TypesData {
         System.out.println(myFloat);
         System.out.println("myByte = "+myByte);
         System.out.println("myFloat = "+myFloat);
-        System.out.println("myFloat = "+myFloat);
+        //about
     }
 }
