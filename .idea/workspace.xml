@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0af178fe-7dcb-4f8b-88de-877a3196df24" name="Changes" comment="Home Tasks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/hw20231009/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/hw20231009/NearNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/hw20231011/Shops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.Kotlin&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Clock">
+  <component name="RunManager" selected="Application.Shops">
     <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.hw20231009.Clock" />
       <module name="HomeTask1" />
@@ -113,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="de.telran.homework20231002.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.homework20231002.Main" />
+    <configuration name="Shops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.hw20231011.Shops" />
       <module name="HomeTask1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telran.homework20231002.*" />
+          <option name="PATTERN" value="de.telran.hw20231011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shops" />
         <item itemvalue="Application.Clock" />
         <item itemvalue="Application.NearNumber" />
         <item itemvalue="Application.NumberConverter" />
         <item itemvalue="Application.Pizza" />
-        <item itemvalue="Application.de.telran.homework20231002.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696792885186</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Home Tasks">
+      <option name="closed" value="true" />
+      <created>1697132206234</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697132206235</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
