@@ -32,8 +32,7 @@ public class Shops {
 
     static boolean canBuy(boolean shop1, boolean shop2) {
         // проверка, открыт ли хоть какой-нибуть магазин или нет
-        if (shop1 || shop2 ) return true;
-        return false;
+        return shop1 || shop2;
     }
 
     static boolean isLeap(int year) {
