@@ -4,13 +4,22 @@ public class Temperature {
     public static void main(String[] args) {
         int temperature1 = 120;
         int temperature2 = 90;
+        //if (isTempCorrect(temperature1, temperature2)) System.out.println("Прибор работает корректно");
+        //else System.out.println("Прибор не будет работать корректно");
+        System.out.printf("Прибор работает %sкорректно.%n",
+                isTempCorrect(temperature1, temperature2) ? "" : "не");
+
+/*        Teacher's comment: Отличная работа.
+        Код
         if (checkDevice(temperature1, temperature2)) System.out.println("Прибор работает корректно");
         else System.out.println("Прибор не будет работать корректно");
-
+        можно упростить
+        System.out.printf("Прибор работает %sкорректно%n", checkDevice(temperature1, temperature2) ? "" : "не");
+        Метод checkDevice лучше переименовать в isTempCorrect.*/
 
     }
 
-    static boolean checkDevice(int temperature1, int temperature2){
+    static boolean isTempCorrect(int temperature1, int temperature2){
         return temperature1>100 && temperature2<100;
     }
 }
