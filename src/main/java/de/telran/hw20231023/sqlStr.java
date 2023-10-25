@@ -1,6 +1,5 @@
 package de.telran.hw20231023;
 
-import java.util.Arrays;
 
 public class sqlStr {
     public static void main(String[] args) {
@@ -9,9 +8,8 @@ public class sqlStr {
         sb.append("SELECT * FROM users WHERE ");
 
         for (int i = 0; i < (strArr.length-1); i+=2) {
-            if (strArr[i+1] != "null"){
-                sb.append(strArr[i]).append("=\'").append(strArr[i+1]).append("\' AND ");
-            }
+            if (!strArr[i+1].equals("null"))
+                sb.append(strArr[i]).append("='").append(strArr[i+1]).append("' AND ");
         }
         sb.delete((sb.length()-5), sb.length()).append(";");
         System.out.println(sb);

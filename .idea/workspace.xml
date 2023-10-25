@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0af178fe-7dcb-4f8b-88de-877a3196df24" name="Changes" comment="Home Tasks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/hw20231023/ElementsArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/hw20231023/sqlStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/hw20231023/sqlStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/hw20231023/sqlStr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698001524836</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Home Tasks">
+      <option name="closed" value="true" />
+      <created>1698258287959</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1698258287959</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
