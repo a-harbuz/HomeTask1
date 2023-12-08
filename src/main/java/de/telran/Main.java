@@ -2,6 +2,7 @@ package de.telran;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        //int[] array1 = {1, 2, 3};
     }
 }
 
